@@ -1,6 +1,15 @@
-# Taproom
+# TapApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+
+Epicodus Pair Partner Coding Project.
+
+## Authors: Dustin Herboldshimer and Stuart McKay
+
+## Description
+
+A keg/pour managment app for a fictional brewery.  Utilizing user and client/dashboard views to create a create/edit a product,
+manage inventory via a rudimentary POS view, and display taplist and info in user view.
 
 ## Development server
 
